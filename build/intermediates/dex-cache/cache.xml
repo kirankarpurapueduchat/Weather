@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_f41ffd5988f7931e4a643b83c9f45a1863904dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_90f85bf997207c67573e51be50d7e6a9d9cd0f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_372f760985f5e3c5f0e8959727d3644c5ffcf1d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ef0c8364efe2e1b72b3903d6ba588d6cbde9aa6f">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha2_56918f374c6884a46b3f5a8786446d94d7eb41f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_f1e7cdb965f91d39ad09b00e9b4e59d53f017f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_f03d00bba99d6b97d20c8efdbc84d80271fefa60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_fa600c4eb1e183fa3eda514890b27356a17509b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="aa52b18e81a499129a981d0d8681b8b030130a6d">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha2_98c7034306e399b06276ccdfc06c570e72830169.jar" />
+    </item>
+
+</items>
