@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="instabug-2.5.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instabug.library/instabug/2.5.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instabug.library/instabug/2.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instabug.library/instabug/2.5.0/a8d7c97232cbe6e53c97433c93c909d56b3c267e/instabug-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
