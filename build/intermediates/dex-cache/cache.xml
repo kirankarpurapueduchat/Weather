@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kkiran/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/okio-1.8.0_6e411ce359430ffa75f7ab02b5100f48f3f23ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="false"
@@ -39,21 +48,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
-        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_c18d19852ad3c890a2e42d8410edca161cf08149.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/kkiran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
         jumboMode="false"
         optimize="false"
         revision="23.0.3"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
         <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_f03d00bba99d6b97d20c8efdbc84d80271fefa60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/Weather/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_c18d19852ad3c890a2e42d8410edca161cf08149.jar" />
     </item>
     <item
         is-multidex="false"
@@ -81,6 +90,15 @@
         revision="23.0.3"
         sha1="7bb50c7e3459246536f7717a7c1104198a93edce">
         <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/com.instabug.library-instabug-2.5.0_4366dc38eb5736b8b78f9d90c16eea680a8f6ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kkiran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/kkiran/Weather/app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_ffbd3be23f3dfd3c2b8edd380b90fc228829e7eb.jar" />
     </item>
     <item
         is-multidex="false"
